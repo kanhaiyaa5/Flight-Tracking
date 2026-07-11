@@ -1,277 +1,7 @@
 {
-  "last_run": "2026-07-11T13:11:59.015173+00:00",
-  "rotation_index": 14,
+  "last_run": "2026-07-11T18:57:59.046484+00:00",
+  "rotation_index": 16,
   "prices": {
-    "CDG-BOM|2027-01-01|2027-02-28": {
-      "origin": "CDG",
-      "destination": "BOM",
-      "price": 600.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "SWISS",
-      "stops_out": 1,
-      "total_duration_min": 665,
-      "layovers": [
-        {
-          "airport": "ZRH",
-          "duration_min": 70
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "DUS-BOM|2027-01-01|2027-02-28": {
-      "origin": "DUS",
-      "destination": "BOM",
-      "price": 618.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Turkish Airlines",
-      "stops_out": 1,
-      "total_duration_min": 640,
-      "layovers": [
-        {
-          "airport": "IST",
-          "duration_min": 60
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "AMS-DEL|2027-01-01|2027-02-28": {
-      "origin": "AMS",
-      "destination": "DEL",
-      "price": 669.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Kuwait Airways",
-      "stops_out": 1,
-      "total_duration_min": 665,
-      "layovers": [
-        {
-          "airport": "KWI",
-          "duration_min": 80
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20DEL%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "CDG-DEL|2027-01-01|2027-02-28": {
-      "origin": "CDG",
-      "destination": "DEL",
-      "price": 661.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Kuwait Airways",
-      "stops_out": 1,
-      "total_duration_min": 675,
-      "layovers": [
-        {
-          "airport": "KWI",
-          "duration_min": 95
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20DEL%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "AMS-BOM|2027-01-01|2027-02-28": {
-      "origin": "AMS",
-      "destination": "BOM",
-      "price": 668.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Kuwait Airways",
-      "stops_out": 1,
-      "total_duration_min": 790,
-      "layovers": [
-        {
-          "airport": "KWI",
-          "duration_min": 200
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "BRU-BOM|2027-01-01|2027-02-28": {
-      "origin": "BRU",
-      "destination": "BOM",
-      "price": 739.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Emirates",
-      "stops_out": 1,
-      "total_duration_min": 780,
-      "layovers": [
-        {
-          "airport": "DXB",
-          "duration_min": 210
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "BRU-CCU|2027-01-01|2027-02-28": {
-      "origin": "BRU",
-      "destination": "CCU",
-      "price": 826.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-02-28",
-      "airline": "Emirates",
-      "stops_out": 1,
-      "total_duration_min": 735,
-      "layovers": [
-        {
-          "airport": "DXB",
-          "duration_min": 95
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20CCU%20on%202027-01-01%20returning%202027-02-28",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "DUS-BOM|2027-01-01|2027-03-05": {
-      "origin": "DUS",
-      "destination": "BOM",
-      "price": 618.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "Turkish Airlines",
-      "stops_out": 1,
-      "total_duration_min": 640,
-      "layovers": [
-        {
-          "airport": "IST",
-          "duration_min": 60
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "AMS-BOM|2027-01-01|2027-03-05": {
-      "origin": "AMS",
-      "destination": "BOM",
-      "price": 631.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "SWISS",
-      "stops_out": 1,
-      "total_duration_min": 685,
-      "layovers": [
-        {
-          "airport": "ZRH",
-          "duration_min": 85
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "CDG-DEL|2027-01-01|2027-03-05": {
-      "origin": "CDG",
-      "destination": "DEL",
-      "price": 565.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "LOT",
-      "stops_out": 1,
-      "total_duration_min": 1740,
-      "layovers": [
-        {
-          "airport": "WAW",
-          "duration_min": 1160
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "CDG-BOM|2027-01-01|2027-03-05": {
-      "origin": "CDG",
-      "destination": "BOM",
-      "price": 600.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "SWISS",
-      "stops_out": 1,
-      "total_duration_min": 665,
-      "layovers": [
-        {
-          "airport": "ZRH",
-          "duration_min": 70
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "AMS-DEL|2027-01-01|2027-03-05": {
-      "origin": "AMS",
-      "destination": "DEL",
-      "price": 669.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "Kuwait Airways",
-      "stops_out": 1,
-      "total_duration_min": 665,
-      "layovers": [
-        {
-          "airport": "KWI",
-          "duration_min": 80
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "BRU-DEL|2027-01-01|2027-03-05": {
-      "origin": "BRU",
-      "destination": "DEL",
-      "price": 688.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "Emirates",
-      "stops_out": 1,
-      "total_duration_min": 810,
-      "layovers": [
-        {
-          "airport": "DXB",
-          "duration_min": 235
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "BRU-BOM|2027-01-01|2027-03-05": {
-      "origin": "BRU",
-      "destination": "BOM",
-      "price": 714.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "Emirates",
-      "stops_out": 1,
-      "total_duration_min": 780,
-      "layovers": [
-        {
-          "airport": "DXB",
-          "duration_min": 210
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
-    "DUS-CCU|2027-01-01|2027-03-05": {
-      "origin": "DUS",
-      "destination": "CCU",
-      "price": 751.0,
-      "outbound_date": "2027-01-01",
-      "return_date": "2027-03-05",
-      "airline": "Etihad",
-      "stops_out": 1,
-      "total_duration_min": 1815,
-      "layovers": [
-        {
-          "airport": "AUH",
-          "duration_min": 1120
-        }
-      ],
-      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20CCU%20on%202027-01-01%20returning%202027-03-05",
-      "checked_at": "2026-07-08T19:20:35.471184+00:00"
-    },
     "BRU-BOM|2027-01-04|2027-02-22": {
       "origin": "BRU",
       "destination": "BOM",
@@ -2905,6 +2635,307 @@
       ],
       "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20CCU%20on%202027-01-01%20returning%202027-02-25",
       "checked_at": "2026-07-11T13:11:59.015173+00:00"
+    },
+    "CDG-DEL|2027-01-01|2027-02-28": {
+      "origin": "CDG",
+      "destination": "DEL",
+      "price": 556.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Gulf Air",
+      "stops_out": 1,
+      "total_duration_min": 2230,
+      "layovers": [
+        {
+          "airport": "BAH",
+          "duration_min": 1620
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20DEL%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "DUS-BOM|2027-01-01|2027-02-28": {
+      "origin": "DUS",
+      "destination": "BOM",
+      "price": 618.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Turkish Airlines",
+      "stops_out": 1,
+      "total_duration_min": 640,
+      "layovers": [
+        {
+          "airport": "IST",
+          "duration_min": 60
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "CDG-BOM|2027-01-01|2027-02-28": {
+      "origin": "CDG",
+      "destination": "BOM",
+      "price": 581.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Gulf Air",
+      "stops_out": 1,
+      "total_duration_min": 800,
+      "layovers": [
+        {
+          "airport": "BAH",
+          "duration_min": 205
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-DEL|2027-01-01|2027-02-28": {
+      "origin": "BRU",
+      "destination": "DEL",
+      "price": 669.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Emirates",
+      "stops_out": 1,
+      "total_duration_min": 810,
+      "layovers": [
+        {
+          "airport": "DXB",
+          "duration_min": 235
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20DEL%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-BOM|2027-01-01|2027-02-28": {
+      "origin": "BRU",
+      "destination": "BOM",
+      "price": 646.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Turkish Airlines",
+      "stops_out": 1,
+      "total_duration_min": 1100,
+      "layovers": [
+        {
+          "airport": "IST",
+          "duration_min": 510
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20BOM%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "AMS-DEL|2027-01-01|2027-02-28": {
+      "origin": "AMS",
+      "destination": "DEL",
+      "price": 669.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Kuwait Airways",
+      "stops_out": 1,
+      "total_duration_min": 665,
+      "layovers": [
+        {
+          "airport": "KWI",
+          "duration_min": 80
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20DEL%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "DUS-CCU|2027-01-01|2027-02-28": {
+      "origin": "DUS",
+      "destination": "CCU",
+      "price": 688.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Etihad",
+      "stops_out": 1,
+      "total_duration_min": 1815,
+      "layovers": [
+        {
+          "airport": "AUH",
+          "duration_min": 1120
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20CCU%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-CCU|2027-01-01|2027-02-28": {
+      "origin": "BRU",
+      "destination": "CCU",
+      "price": 782.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-02-28",
+      "airline": "Emirates",
+      "stops_out": 1,
+      "total_duration_min": 735,
+      "layovers": [
+        {
+          "airport": "DXB",
+          "duration_min": 95
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20CCU%20on%202027-01-01%20returning%202027-02-28",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "CDG-BOM|2027-01-01|2027-03-05": {
+      "origin": "CDG",
+      "destination": "BOM",
+      "price": 600.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "SWISS",
+      "stops_out": 1,
+      "total_duration_min": 665,
+      "layovers": [
+        {
+          "airport": "ZRH",
+          "duration_min": 70
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "DUS-BOM|2027-01-01|2027-03-05": {
+      "origin": "DUS",
+      "destination": "BOM",
+      "price": 618.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Turkish Airlines",
+      "stops_out": 1,
+      "total_duration_min": 640,
+      "layovers": [
+        {
+          "airport": "IST",
+          "duration_min": 60
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-DEL|2027-01-01|2027-03-05": {
+      "origin": "BRU",
+      "destination": "DEL",
+      "price": 644.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Emirates",
+      "stops_out": 1,
+      "total_duration_min": 810,
+      "layovers": [
+        {
+          "airport": "DXB",
+          "duration_min": 235
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "CDG-DEL|2027-01-01|2027-03-05": {
+      "origin": "CDG",
+      "destination": "DEL",
+      "price": 564.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "LOT",
+      "stops_out": 1,
+      "total_duration_min": 1740,
+      "layovers": [
+        {
+          "airport": "WAW",
+          "duration_min": 1160
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "AMS-DEL|2027-01-01|2027-03-05": {
+      "origin": "AMS",
+      "destination": "DEL",
+      "price": 669.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Kuwait Airways",
+      "stops_out": 1,
+      "total_duration_min": 665,
+      "layovers": [
+        {
+          "airport": "KWI",
+          "duration_min": 80
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20DEL%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-BOM|2027-01-01|2027-03-05": {
+      "origin": "BRU",
+      "destination": "BOM",
+      "price": 670.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Emirates",
+      "stops_out": 1,
+      "total_duration_min": 780,
+      "layovers": [
+        {
+          "airport": "DXB",
+          "duration_min": 210
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "DUS-CCU|2027-01-01|2027-03-05": {
+      "origin": "DUS",
+      "destination": "CCU",
+      "price": 751.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Etihad",
+      "stops_out": 1,
+      "total_duration_min": 1815,
+      "layovers": [
+        {
+          "airport": "AUH",
+          "duration_min": 1120
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20DUS%20to%20CCU%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "BRU-CCU|2027-01-01|2027-03-05": {
+      "origin": "BRU",
+      "destination": "CCU",
+      "price": 757.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "Emirates",
+      "stops_out": 1,
+      "total_duration_min": 735,
+      "layovers": [
+        {
+          "airport": "DXB",
+          "duration_min": 95
+        }
+      ],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20BRU%20to%20CCU%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
+    },
+    "AMS-BOM|2027-01-01|2027-03-05": {
+      "origin": "AMS",
+      "destination": "BOM",
+      "price": 951.0,
+      "outbound_date": "2027-01-01",
+      "return_date": "2027-03-05",
+      "airline": "IndiGo",
+      "stops_out": 0,
+      "total_duration_min": 510,
+      "layovers": [],
+      "link": "https://www.google.com/travel/flights?q=Flights%20from%20AMS%20to%20BOM%20on%202027-01-01%20returning%202027-03-05",
+      "checked_at": "2026-07-11T18:57:59.046484+00:00"
     }
   }
 }
